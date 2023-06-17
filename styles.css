@@ -1,0 +1,53 @@
+body{
+  background-color: #EAF6F6;
+  
+}
+
+
+h3{
+  background-color: #30a0af;
+  color: white;
+  width: 50%;
+  }
+  h3:hover{
+    background-color: rgb(28, 10, 131);
+  }
+  .nan{
+    position: relative;
+    bottom: 140px;
+  }
+  img{
+    position: relative;
+    right: 25px;
+    width: 200px;
+    
+  }
+
+  .yuva{
+    font-size: 15px;
+    position: relative;
+    right: 30px;
+  }
+  .sri{
+    font-size: 15px;
+    
+  }
+  .shiv{
+    position: relative;
+    left: 0px;
+
+  }
+  .cert{
+    position: relative;
+    bottom: 140px;
+  }
+  
+ 
+#sai{
+  color: #00000e;
+  position: relative;
+    right: 30px;
+}
+.datefont{
+  font-size: 80%;
+}
